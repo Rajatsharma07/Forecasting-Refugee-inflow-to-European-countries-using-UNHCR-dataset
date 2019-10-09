@@ -10,6 +10,7 @@ Time Series Forecasting Project
 Various time series analysis techniques are used and the best model for predicting the number of refugees for the coming days is selected. In addition, our forecasting model also answers the following research questions:
 
 Q1: What is the preferred destination for the refugees affected by the change in the total number of refugees on the Western-Balkan route?
+
 Q2: To what extent are both time series related?
 
 We would like to examine the correlation between the countries.
